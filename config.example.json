@@ -1,0 +1,11 @@
+{
+  "user_id": "",
+  "password": "",
+  "groups": ["示例班级"],
+  "request_interval": 0.4,
+  "render_scale": 2,
+  "contests_enabled": true,
+  "contest_keyword": "C语言作业",
+  "contest_ids": [],
+  "anomaly": { "window_minutes": 3, "min_count": 2, "since": "" }
+}
